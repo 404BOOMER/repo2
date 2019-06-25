@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:51:12 +0800] "GET /ssm_total_web/sysLog/findAll.do HTTP/1.1" 302 - http-bio-8080-exec-2 110
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:51:13 +0800] "GET /ssm_total_web/login.jsp HTTP/1.1" 200 2630 http-bio-8080-exec-3 1023
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:51:19 +0800] "POST /ssm_total_web/login.do HTTP/1.1" 200 14150 http-bio-8080-exec-4 1435
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:51:23 +0800] "GET /ssm_total_web/sysLog/findAll.do HTTP/1.1" 500 12518 http-bio-8080-exec-6 117
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:52:01 +0800] "POST /ssm_total_web/login.do HTTP/1.1" 200 14150 http-bio-8080-exec-8 151
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:52:04 +0800] "GET /ssm_total_web/user/findAll.do HTTP/1.1" 200 18313 http-bio-8080-exec-9 380
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:52:07 +0800] "GET /ssm_total_web/role/findAll.do HTTP/1.1" 200 17851 http-bio-8080-exec-10 260
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:52:10 +0800] "GET /ssm_total_web/permission/findAll.do HTTP/1.1" 200 17008 http-bio-8080-exec-3 180
+0:0:0:0:0:0:0:1 - - [25/Jun/2019:13:52:12 +0800] "GET /ssm_total_web/sysLog/findAll.do HTTP/1.1" 200 22703 http-bio-8080-exec-1 165
